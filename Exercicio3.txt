@@ -1,0 +1,1 @@
+Sim, memória. Dependendo do tamanho da árvore podem ocorrer muitas chamadas da função recursivamente, e uma pilha de chamadas grande acaba consumindo mais memória. Além disso, rotinas recursivas geralmente usam mais memória por realocar as variáveis a cada chamada recursiva.
